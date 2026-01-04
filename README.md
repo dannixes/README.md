@@ -67,5 +67,5 @@ Get my first Junior Frontend Developer position and grow in a team environment.
 
 ## 📫 Contact
 - GitHub: https://github.com/dannixes
-- Telegram: @yourname
-- Email: your@email.com
+- Telegram: @meheheh
+- Email: khramtsovdanila.2003@gmail.com 
