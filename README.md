@@ -30,7 +30,7 @@ Mobile food delivery application built as a learning project.
 - Cart functionality (state management)
 - Styled with NativeWind
 
-🔗 Repo: https://github.com/dannixes/react-native-food-delivery
+🔗 Repo: https://#
 
 ---
 
@@ -43,7 +43,7 @@ Simple React chatbot application.
 - Styled UI
 - Built with Vite
 
-🔗 Repo: https://github.com/dannixes/react-chatbot
+🔗 Repo: [https://github.com/dannixes/react-chatbot](https://github.com/dannixes/chat_bot_app)
 
 ---
 
@@ -56,7 +56,7 @@ Movie search application using a public API.
 - Tailwind CSS styling
 - Deployed frontend application
 
-🔗 Repo: https://github.com/dannixes/react-movie-app
+🔗 Repo: [https://github.com/dannixes/react-movie-app](https://github.com/dannixes/movie_app)
 
 ---
 
