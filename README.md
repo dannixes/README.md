@@ -30,7 +30,7 @@ Mobile food delivery application built as a learning project.
 - Cart functionality (state management)
 - Styled with NativeWind
 
-🔗 Repo: https://#
+🔗 Repo: [https://github.com/dannixes/mobile_app](https://github.com/dannixes/mobile_app)
 
 ---
 
